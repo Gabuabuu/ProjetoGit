@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Apredendo a usar Git e Github com a Rafaella Ballerini [Vídeo](https://www.youtube.com/watch?v=UBAX-13g8OM&t=130s)
 
 ##Alguns comandos que aprendi
@@ -17,3 +18,7 @@ Apredendo a usar Git e Github com a Rafaella Ballerini [Vídeo](https://www.yout
 #Git checkout `(sem o -b)` "nome da branch" = É usado para navegar entre suas branchs
 
 
+=======
+
+Apredendo a usar Git e Github com a Rafaella Ballerini ==> [Vídeo](https://www.youtube.com/watch?v=UBAX-13g8OM&t=130s) <== 
+>>>>>>> 9dffd8635488873ef8f62395abbc480bd8148f8e
